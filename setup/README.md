@@ -15,7 +15,7 @@
 
 #### DOCUMENTOS DE API
 
-- [documentos docs](https://www.mediawiki.org/wiki/API:Main_page)
+- [documentos](https://www.mediawiki.org/wiki/API:Main_page)
 
 - pronto para usar URLs
 
